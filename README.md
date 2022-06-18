@@ -16,14 +16,14 @@ Module 4:PyCitySchools with Pandas
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### 
 * How does replacing the ninth-grade scores affect the following:
-####
     * Math and reading scores by grade
-####
+        * Hello
     * Scores by school spending
-#### 
-*   Scores by school size
-#### 
-*   Scores by school type
+        * Hello
+    * Scores by school size
+        * Hello
+    * Scores by school type
+        * Hello
 #### 
 ##
 ## 3. Summary: 

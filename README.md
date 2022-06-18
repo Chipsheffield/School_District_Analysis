@@ -9,9 +9,9 @@ Module 4:PyCitySchools with Pandas
 ## 2. Results: 
 ### Using bulleted lists and images of DataFrames as support, address the following questions.
 #### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-### *How is the district summary affected?
+* How is the district summary affected?
 #### 
-### *How is the school summary affected?
+### * How is the school summary affected?
 ####
 ### *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### 

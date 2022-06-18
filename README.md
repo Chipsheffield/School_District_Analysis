@@ -17,9 +17,9 @@ Module 4:PyCitySchools with Pandas
 #### 
 * How does replacing the ninth-grade scores affect the following:
 ####
-*   Math and reading scores by grade
+    * Math and reading scores by grade
 ####
-*   Scores by school spending
+    * Scores by school spending
 #### 
 *   Scores by school size
 #### 
